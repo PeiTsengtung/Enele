@@ -9,6 +9,8 @@ An easy, beautiful and natural international auxiliary language.
 
 易しくて、美しくて、自然な国際補助語。
 
+------
+
 ## Sur Neolatino e se creatore 關於 Neolatino 及其作者
 Neolatino es un projecto de internacionale aidante lingua comenzate de Pei Tseng-tung en 2016, e se originale nome ja es Latino Simplificate. Este lingua punta provide un facile por aprende, bele e naturale utile por interculturale comunicas, e vos es benvenite participa en se construi e cresce.
 
@@ -17,3 +19,10 @@ Neolatino（新拉丁語）是由夏如臻於 2016 年發起的一項基於拉�
 Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neolatino.
 
 我是夏如臻，明州望海縣人，語言學愛好者，Neolatino 項目的創始人。
+
+## Recursos e ligas 資源與鏈接
+- [Wiki de Neolatino](https://github.com/PeiTsengtung/Neolatino/wiki)（目前在更新語法書）
+
+- [Wiki de Laboratorio](https://github.com/PeiTsengtung/Laboratorio/wiki)
+
+- [Categoria: Neolatino](https://github.com/PeiTsengtung/Laboratorio/issues/5)
