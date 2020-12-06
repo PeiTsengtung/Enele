@@ -26,3 +26,28 @@ Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es
 - [Wiki de Laboratorio](https://github.com/PeiTsengtung/Laboratorio/wiki)
 
 - [Categoria: Neolatino](https://github.com/PeiTsengtung/Laboratorio/issues/5)
+
+## Aprende usose expresas! 學一些有用的表達！
+- Hola! 你好！
+
+- Bon matina! 早上好！
+
+- Bon die! 日安！
+
+- Bon sera! 晚上好！
+
+- Bon nocte! 晚安！
+
+- Gracia! 謝謝！
+
+- De nule! 沒事！
+
+- Ben! 好耶！
+
+- Male! 壞耶！
+
+- De acordo! 好的！
+
+- Tan amable! 好可愛！
+
+- Me ama tu. 我愛你。
