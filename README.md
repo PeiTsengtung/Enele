@@ -40,7 +40,11 @@ Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es
 
 - Gracia! 謝謝！
 
+- Perdona! 抱歉！
+
 - De nule! 沒事！
+
+- Per favore! 請！
 
 - Ben! 好耶！
 
