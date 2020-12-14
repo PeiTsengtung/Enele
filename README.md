@@ -12,9 +12,9 @@ An easy, beautiful and natural international auxiliary language.
 ------
 
 ## Sur Neo Latino e se creatore 關於 Neo Latino 及其作者
-Neo Latino es un projecto de internacionale aidante lingua comenzate de Pei Tseng-tung en 2016, e se originale nome ja es Latino Simplificate. Este lingua punta provide un facile por aprende, bele e naturale utile por interculturale comunicas, e vos es benvenite participa en se construi e cresce.
+Neo Latino (NL, Enele) es un projecto de internacionale aidante lingua comenzate de Pei Tseng-tung en 2016, e se originale nome ja es Latino Simplificate. Este lingua punta provide un facile por aprende, bele e naturale utile por interculturale comunicas, e vos es benvenite participa en se construi e cresce.
 
-Neo Latino 是由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃，最初定名為 Latino Simplificate。這門語言旨在為跨文化交流提供一種簡單易學且美觀自然的工具，並歡迎各位參與建設和完善。
+Neo Latino（簡稱 NL 或 Enele）是由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃，最初定名為 Latino Simplificate。這門語言旨在為跨文化交流提供一種簡單易學且美觀自然的工具，並歡迎各位參與建設和完善。
 
 Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neo Latino.
 
