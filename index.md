@@ -1,5 +1,5 @@
 # Neo Latino
-![Icone de Neo Latino](https://raw.githubusercontent.com/PeiTsengtung/Laboratorio/neolatino/Icone%20de%20Neo%20Latino.jpg)
+![Icone de Neo Latino](https://raw.githubusercontent.com/PeiTsengtung/Laboratorio/neo-latino/Icone%20de%20Neo%20Latino.jpg)
 
 Un facile, bele e naturale internacionale aidante lingua.
 
