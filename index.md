@@ -9,6 +9,8 @@ An easy, beautiful and natural international auxiliary language.
 
 易しくて、美しくて、自然な国際補助語。
 
+[返回首頁](https://peitsengtung.github.io/)
+
 ------
 
 ## Sur Neo Latino e se creatore 關於 Neo Latino 及其作者
