@@ -23,7 +23,7 @@ Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es
 我是夏如臻，明州望海縣人，語言學愛好者，Neo Latino 項目的創始人。
 
 ## Recursos e ligas 資源與鏈接
-- [Wiki de Neo Latino](https://github.com/PeiTsengtung/NeoLatino/wiki)（目前在更新語法書）
+- [Wiki de Neo Latino](https://github.com/PeiTsengtung/Enele/wiki)（目前在更新語法書）
 
 - [Wiki de Neo Latino](https://github.com/PeiTsengtung/Laboratorio/wiki)
 
