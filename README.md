@@ -30,6 +30,8 @@ Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es
 ## Aprende usose expresas! 學一些有用的表達！
 - Hola! 你好！
 
+- Chau! 再見！
+
 - Bon matina! 早上好！
 
 - Bon die! 日安！
